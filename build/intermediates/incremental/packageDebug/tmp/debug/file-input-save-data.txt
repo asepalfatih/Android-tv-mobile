@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Apr 01 02:09:33 ICT 2023
+0.base=C\:\\Users\\HP\\AndroidStudioProjects\\tv-samples-main\\Leanback\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=C\:\\Users\\HP\\AndroidStudioProjects\\tv-samples-main\\Leanback\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+0.set=DEX
